@@ -45,7 +45,7 @@ public class Manager {
         MenuItem addi = new MenuItem("Add Item");
         addi.setOnAction(e -> openWindow(addItem()));
 
-        MenuItem qm = new MenuItem("Queue Manager");
+        MenuItem qm = new MenuItem("Manage Queue");
         qm.setOnAction(e -> openWindow(queueManager()));
 
         MenuItem logout = new MenuItem("Logout");
