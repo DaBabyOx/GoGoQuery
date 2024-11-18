@@ -22,19 +22,19 @@ Hi, this is my attempt on finishing the GoGoQuery case from the Business Applica
 3. Register
    ![image](https://github.com/user-attachments/assets/20d5999b-e790-4e2b-bbec-c215773877bd)
 5. Select Role
-   ![image](https://github.com/user-attachments/assets/2083ce72-d36c-4251-9a83-506e3d4bf792)
-6. Shopper Home Page
    ![image](https://github.com/user-attachments/assets/652ddde4-9453-4c8b-9d18-967564f5ab95)
-7. Product Detail Page
+7. Shopper Home Page
+   ![image](https://github.com/user-attachments/assets/befefd2b-b527-46e6-a134-dff6a3851177)
+8. Product Detail Page
    ![image](https://github.com/user-attachments/assets/c3b0855b-e09d-4acb-b78e-3d6ff044250a)
-8. Cart Page
+9. Cart Page
    ![image](https://github.com/user-attachments/assets/f6479965-6cee-4972-b6f0-be79308c014c)
    ![image](https://github.com/user-attachments/assets/dfed7cac-1b6c-48ce-ad7b-9c728209b506)
-9. Manager Home Page
+10. Manager Home Page
    ![image](https://github.com/user-attachments/assets/b02f7873-6184-428b-9fef-5debeacd8a70)
-10. Add Item Page
+11. Add Item Page
    ![image](https://github.com/user-attachments/assets/c3952561-f290-47bb-847a-53b577294401)
-11. Queue Management Page
+12. Queue Management Page
     ![image](https://github.com/user-attachments/assets/07ca9726-e917-446e-aff8-5f1c847c5389)
 
 #### How to Run:
